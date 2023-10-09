@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(79, 202, 240);
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+}
+
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.btn:hover{
+    background-color: rgb(150, 120, 124);
+    cursor: pointer;
+}
